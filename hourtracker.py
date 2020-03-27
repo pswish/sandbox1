@@ -1,5 +1,7 @@
 from datetime import datetime, timedelta, date
-# possibly creat an repeat funtion to run again
+# Written by Paul Swisher, all rights reserved.
+# This program will take a deciaml hour number like 4.32 and output a quiiting time based on 8 hours
+# This was made to work with Amazon's hourly numbers.
 
 class Hours(object): 
     def main(self): 
